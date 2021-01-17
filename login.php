@@ -16,9 +16,9 @@
             </div>
 
             <div class="uk-margin">
-                <label class="uk-form-label" for="form-stacked-text">Password</label>
+                <label class="uk-form-label" for="form-stacked-text2">Password</label>
                 <div class="uk-form-controls">
-                    <input class="uk-input" id="form-stacked-text" type="password" placeholder="Password" required>
+                    <input class="uk-input" id="form-stacked-text2" type="password" placeholder="Password" required>
                 </div>
             </div>            
 
